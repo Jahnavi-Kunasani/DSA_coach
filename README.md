@@ -25,10 +25,6 @@ An AI-powered DSA mentoring platform that evaluates users' problem-solving appro
 - Node.js
 - Express.js
 
-### APIs
-- REST API
-- Gemini API
-
 ---
 
 ## Project Structure
